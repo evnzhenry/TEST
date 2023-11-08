@@ -5,54 +5,7 @@
     padding: 0 !important;
 
 }
-Horace, [08-Nov-23 3:27 PM]
-<div class="navdiv">
-        <div class="star">
-            <a href="#" class="star-logo"> <img src="star.png" alt="star" width="25px" height="25px"> Sell on Jumia</a>
-        </div>
-        <div class="top-items">
-            <ul>
-                <li> <a href="" class="text-dark"> JUMIA<img src="star.png" alt="star " width="10px" height="10px"></a></li>
-                <li> <a href="https://food.jumia.ug/ " target="_blank">Food</i> </a></li>
-                <li> <a href="https://pay.jumia.ug/"> Pay</a></li>
-                <li> <a href="https://jforce.jumia.ug/"> <img src="star.png" alt="star" width="10px" height="10px"> Force</a> </li>
-            </ul>
-        </div>
-     </div>
 
-
-
-    <nav class="navbar navbar-expand-lg bg-light">
-        <div class="container-fluid">
-          <a class="navbar-brand" href="#"> <i class="bi bi-list"> </i><img src="logo.png" alt="logo" width="150px" height="70px"></a>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-          <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
-
-            <form class="d-flex m-4" role="search">
-                <input class="form-control search" type="search" placeholder=" Search Products, brands and Categories" aria-label="Search" style="width: 500px;"> 
-              
-                <button class=" btn submit" type="submit" style="min-width: 80px;"> <i class="bi bi-search"></i> Search</button>
-              </form>
-              
-
-            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                <li class="nav-item">
-                  <a class="nav-link active" aria-current="page" href="#"> <i class="bi bi-person-check" > </i>Hi, Eva   </a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="#"> <i class="bi bi-question-circle"></i> Help  <i class="bi bi-chevron-down"></i></a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link " href="#" > <i class="bi bi-cart"></i> Cart </a>
-                </li>
-              </ul>
-          </div>
-        </div>
-      </nav>
-
-Horace, [08-Nov-23 4:07 PM]
 body {
     background-color: whitesmoke;
  }
